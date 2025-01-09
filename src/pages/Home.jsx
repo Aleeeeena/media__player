@@ -15,7 +15,7 @@ function Home() {
     <>
     <div className='d-flex justify-content-between m-5'>
    <div><Addvdio setvideoresponse={setvideoresponse} /></div>
-   <div><a className='text-decoration-none ' href="./history"><h4 style={{color:'lightblue'}}>Watch History</h4></a></div>
+   <div><a className='text-decoration-none ' href="/history"><h4 style={{color:'lightblue'}}>Watch History</h4></a></div>
 
 
     </div>
